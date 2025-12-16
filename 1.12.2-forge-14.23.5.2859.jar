@@ -1,0 +1,48 @@
+<html lang="en">
+    <head>
+      <meta charset="UTF-8" />
+      <title>Reposilite - 404 Not Found</title>
+    </head>
+    <style>
+      body {
+        height: calc(100vh - 170px);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+    
+      .error-view {
+        text-align: center;
+        width: 100vh;
+        height: 100px;
+      }
+    
+      .spooky p {
+        margin-top: 0;
+        margin-bottom: 0;
+        font-size: 1.2rem;
+        font-weight: lighter;
+      }
+      
+      a:link, a:visited {
+        color: rebeccapurple;
+      }
+    </style>
+    <body>
+      <div class='error-view'>
+        <h1 style="font-size: 1.5rem">
+          <span style="color: gray;">404︱</span>Resource not found
+        </h1>
+        <p><i>Cannot find net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859.jar in local and remote repositories</i></p>
+        <p>Looking for a dashboard?</p>
+        <div class="spooky">
+          <p>{\__/}</p>
+          <p>(●ᴗ●)</p>
+          <p>( >🥕</p>
+        </div>
+        <p>Visit <a href="/#/releases/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859.jar" style="color: rebeccapurple; text-decoration: none;">/#/releases/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859.jar</a></p>
+      </div>
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"5879ad2cb04d486fb3eef456add78f9d","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
