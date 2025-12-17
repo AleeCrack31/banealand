@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "forge": {
     "installer": "forge-1.12.2-14.23.5.2859-installer.jar",
     "universal": "forge-1.12.2-14.23.5.2859.jar",
